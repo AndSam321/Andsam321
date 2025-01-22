@@ -58,5 +58,10 @@ Here are some ideas to get you started:
 ### ⚡ Interests
     💻 Learning new programming languages and topics
     📺 Anime (Currently 1/3 into One Piece...) 
-    🎮 Video Games (Currently playing League of Legends and Marvel Rivals)
+    🎮 K-POP (Twice, NewJeans)
     🥩 Learning how to barbecue better
+
+<p align="center">
+  <img src="https://media.giphy.com/media/CWLH6piaVczHitjdZj/giphy.gif" alt="TWICE Tzuyu" width="300"/>
+</p>
+
