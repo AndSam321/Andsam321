@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - ThunderThrift, an e-commerce thrift shop for my college.
 - SocialSage: An NLP-powered analytics tool that helps small businesses understand customer feedback across social media platforms.
-- Figuring out
+- Becoming the Hokage
 
 
 ### 🌱 I’m learning
