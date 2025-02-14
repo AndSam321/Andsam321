@@ -56,10 +56,12 @@ Here are some ideas to get you started:
 </div>
 
 ### ⚡ Interests
-    💻 Learning new programming languages and topics
-    📺 Anime (Currently 1/3 into One Piece...) 
-    🎼 K-POP (Twice, NewJeans) [Follow my K-Pop Reacting Channel here](https://www.youtube.com/@AsianBrosReact)
-    🥩 Learning how to barbecue better
+💻 Learning new programming languages and topics  
+📺 Anime (Currently 1/3 into One Piece...)  
+🎼 K-POP (Twice, NewJeans) [Check out my K-Pop YouTube Channel here!](https://www.youtube.com/@AsianBrosReact)  
+🥩 Learning how to barbecue better  
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/CWLH6piaVczHitjdZj/giphy.gif" alt="TWICE Tzuyu" width="300"/>
