@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ### ⚡ Interests
     💻 Learning new programming languages and topics
     📺 Anime (Currently 1/3 into One Piece...) 
-    🎼 K-POP (Twice, NewJeans)
+    🎼 K-POP (Twice, NewJeans) [Follow my K-Pop Reacting Channel here](https://www.youtube.com/@AsianBrosReact)
     🥩 Learning how to barbecue better
 
 <p align="center">
