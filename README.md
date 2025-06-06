@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 ### 🔭 I’m working on
-
-- ThunderThrift, an e-commerce thrift shop for my college.
-- SocialSage: An NLP-powered analytics tool that helps small businesses understand customer feedback across social media platforms.
-- Becoming the Hokage
+- An AI Finance Tracker...
+- ThunderThrift, an e-commerce thrift shop for my college. (Finished)
+- Becoming the Hokage (In Progress)
 
 
 ### 🌱 I’m learning
