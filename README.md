@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2B95FF&width=700&lines=Hello!+I'm+Andrew%2C+a+senior+CS+College+Student;AI%2FML+Enthusiast;Future+Software+Engineer;Lover+of+Cats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=50&color=2B95FF&width=700&lines=Hello!+I'm+Andrew%2C+a+recent+CS+College+grad👋;;Current+Master's+Student+@+Georgia+Tech;AI%2FML+Enthusiast;Software+Engineer;Lover+of+Cats)](https://git.io/typing-svg)
 
 <!--
 **AndSam321/Andsam321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
