@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 🔭 I’m working on
-- An AI Finance Tracker...
+- KPop Universe Version 2
 - ThunderThrift, an e-commerce thrift shop for my college. (Finished)
 - Becoming the Hokage (In Progress)
 
