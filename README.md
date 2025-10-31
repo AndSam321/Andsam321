@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 </div>
 
 ### 🔭 I’m working on
-- KPop Universe Version 2
-- ThunderThrift, an e-commerce thrift shop for my college. (Finished)
+- KPop Universe Version 3: in Rails
+- Foreko, an AI-powered inventory management tool
 - Becoming the Hokage (In Progress)
 
 
