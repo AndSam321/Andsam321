@@ -66,9 +66,5 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/CWLH6piaVczHitjdZj/giphy.gif" alt="TWICE Tzuyu" width="300"/>
 </p>
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndSam321&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndSam321&layout=compact&theme=radical)
 
 
