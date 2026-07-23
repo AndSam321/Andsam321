@@ -9,8 +9,7 @@ jobs:
     name: Generate contribution snake
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AndSam321
           outputs: |
